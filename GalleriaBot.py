@@ -160,4 +160,4 @@ async def new(ctx):
                         await ctx.channel.send("Congrats!! You got ur first warn, u got 2 warns left b4 u get banned from this bot")
 
 
-bot.run('OTgyOTY0NTE2NjI5NDA1NzQ3.GtPEyx.hzeYlsxXWQdOu9exasK2BvLQKI9IM_TWx7vi_0')
+bot.run('TOKEN HERE')
