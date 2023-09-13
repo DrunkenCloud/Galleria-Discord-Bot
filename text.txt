@@ -1,0 +1,6 @@
+There are only **3 commands** for this bot:
+1) ~new: attatch a image with this image an send (attatch max upto 5 image at a time, even if u add more it wont work ehe)
+2) ~img: randomly gives Drawing/Artwork from its ***Collection*** (you can add a number after this command for that many pics. *PS: max is 5*
+3) ~helpme: ehe :rofl:
+**PS**: Pls do add a spoiler tag when adding nsfw :pray: , *not that I can do anythign about it ehe.. well, as I said, dependent on the people*
+**I BELEIVE ART SHOULD BE SPREAD, WHETHER THEY ARE GOOD OR BAD AND THATS WHY I MADE THIS BOT** *||idc about about ur opinion||*
