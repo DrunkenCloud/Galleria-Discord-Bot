@@ -1,4 +1,4 @@
 There are only **3 commands** for this bot:
-1) ~new: attatch a image with this image an send (attatch max upto 5 image at a time, even if u add more it wont work ehe)
-2) ~img: randomly gives Drawing/Artwork from its ***Collection*** (you can add a number after this command for that many pics. *PS: max is 5*
-3) ~helpme: ehe :rofl:
+1) &new: attatch a image with this image an send (attatch max upto 5 image at a time, even if u add more it wont work ehe)
+2) &img: randomly gives Drawing/Artwork from its ***Collection*** (you can add a number after this command for that many pics. *PS: max is 5*
+3) &helpme: ehe :rofl:
